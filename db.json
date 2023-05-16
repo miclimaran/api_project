@@ -1,0 +1,1772 @@
+{
+    "student": [
+        [
+            {
+             "ID": 1,
+             "Nomor Urut": 1,
+             "Nama": "AGUS SETIAWAN",
+             "NISN": 9067,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 2,
+             "Nomor Urut": 2,
+             "Nama": "AHMAD SAPUTRA",
+             "NISN": 9070,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 3,
+             "Nomor Urut": 3,
+             "Nama": "AIDA LESTARI",
+             "NISN": 9071,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 4,
+             "Nomor Urut": 4,
+             "Nama": "AJRINA ZAHIRAH",
+             "NISN": 9076,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 5,
+             "Nomor Urut": 5,
+             "Nama": "AL SYAWALI AIDIL FITNAR BASKORO",
+             "NISN": 9077,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 6,
+             "Nomor Urut": 6,
+             "Nama": "AMANDA",
+             "NISN": 9084,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 7,
+             "Nomor Urut": 7,
+             "Nama": "ANNASYA NURFADILAH AMANDA",
+             "NISN": 9091,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 8,
+             "Nomor Urut": 8,
+             "Nama": "ANNISA AULIA RAMADHANI",
+             "NISN": 9092,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 9,
+             "Nomor Urut": 9,
+             "Nama": "ATHASYA NAILA INSYRA",
+             "NISN": 9097,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 10,
+             "Nomor Urut": 10,
+             "Nama": "CAHYA INSANIA",
+             "NISN": 9113,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 11,
+             "Nomor Urut": 11,
+             "Nama": "CHESSA FADHILAH RACHMAN",
+             "NISN": 9116,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 12,
+             "Nomor Urut": 12,
+             "Nama": "CHOIRUL AFFANDI",
+             "NISN": 9117,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 13,
+             "Nomor Urut": 13,
+             "Nama": "FARAH IFTAH QOLBI",
+             "NISN": 9146,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 14,
+             "Nomor Urut": 14,
+             "Nama": "FARRIS HASAN",
+             "NISN": 9310,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 15,
+             "Nomor Urut": 15,
+             "Nama": "HANA GLORIANA HUTAGALUNG",
+             "NISN": 9167,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 16,
+             "Nomor Urut": 16,
+             "Nama": "HUMAIROH",
+             "NISN": 9170,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 17,
+             "Nomor Urut": 17,
+             "Nama": "INTAN SEPIATANTY",
+             "NISN": 9177,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 18,
+             "Nomor Urut": 18,
+             "Nama": "JORGE VALDANO NATUN",
+             "NISN": 9182,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 19,
+             "Nomor Urut": 19,
+             "Nama": "KEANE DERANO BENNETH PANGERAPAN",
+             "NISN": 9185,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 20,
+             "Nomor Urut": 20,
+             "Nama": "KEISHA PUTRI RAMADHANIE",
+             "NISN": 9186,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 21,
+             "Nomor Urut": 21,
+             "Nama": "MUHAMAD ANWAR",
+             "NISN": 9206,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 22,
+             "Nomor Urut": 22,
+             "Nama": "MUHAMMAD FIRZA FACHLEFI",
+             "NISN": 9212,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 23,
+             "Nomor Urut": 23,
+             "Nama": "MUHAMMAD IBRAHIM",
+             "NISN": 9213,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 24,
+             "Nomor Urut": 24,
+             "Nama": "MUHAMMAD RIZQY EARSTA PUTRA",
+             "NISN": 9217,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 25,
+             "Nomor Urut": 25,
+             "Nama": "MUHAMMAD ZACKY MAULANA",
+             "NISN": 9221,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 26,
+             "Nomor Urut": 26,
+             "Nama": "NAJWA KHASANAH",
+             "NISN": 9233,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 27,
+             "Nomor Urut": 27,
+             "Nama": "NAZWA NADIRA ALMAIDA",
+             "NISN": 9239,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 28,
+             "Nomor Urut": 28,
+             "Nama": "NURFADLILAH AZ-ZAHRA",
+             "NISN": 9248,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 29,
+             "Nomor Urut": 29,
+             "Nama": "PIRZA PIRDAUS",
+             "NISN": 9251,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 30,
+             "Nomor Urut": 30,
+             "Nama": "RAHMA ELIZHA",
+             "NISN": 9257,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 31,
+             "Nomor Urut": 31,
+             "Nama": "RENDY FIRDAUS",
+             "NISN": 9264,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 32,
+             "Nomor Urut": 32,
+             "Nama": "RICKY HADINATA",
+             "NISN": 9267,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 33,
+             "Nomor Urut": 33,
+             "Nama": "SARIF HIDAYAT",
+             "NISN": 9281,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 34,
+             "Nomor Urut": 34,
+             "Nama": "WIDIYA ADITYA RAHMAN",
+             "NISN": 9300,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 35,
+             "Nomor Urut": 35,
+             "Nama": "ZUHRA ARYANI PUTRI",
+             "NISN": 9308,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 36,
+             "Nomor Urut": 36,
+             "Nama": "ZULFAH",
+             "NISN": 9309,
+             "Kelas": "XI IPS 1"
+            },
+            {
+             "ID": 37,
+             "Nomor Urut": 1,
+             "Nama": "AGUS SETIAWAN",
+             "NISN": 9066,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 38,
+             "Nomor Urut": 2,
+             "Nama": "AHMAD FAHREZA",
+             "NISN": 9068,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 39,
+             "Nomor Urut": 3,
+             "Nama": "AISYAH AZ-ZAHRA PROSANDI",
+             "NISN": 9074,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 40,
+             "Nomor Urut": 4,
+             "Nama": "ALYA MUTIAH ANWAR",
+             "NISN": 9579,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 41,
+             "Nomor Urut": 5,
+             "Nama": "ARIF TRIANSYAH",
+             "NISN": 9095,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 42,
+             "Nomor Urut": 6,
+             "Nama": "ARINA FALABIBA",
+             "NISN": 9096,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 43,
+             "Nomor Urut": 7,
+             "Nama": "AZLIN EKA ASTUTININGTYAS",
+             "NISN": 9102,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 44,
+             "Nomor Urut": 8,
+             "Nama": "AZZAM ABDURRAHMAN EL ISLAMI",
+             "NISN": 9580,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 45,
+             "Nomor Urut": 9,
+             "Nama": "BAGAS ARDIKA ",
+             "NISN": 9104,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 46,
+             "Nomor Urut": 10,
+             "Nama": "DANIA RAMADHANI",
+             "NISN": 9119,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 47,
+             "Nomor Urut": 11,
+             "Nama": "DEWI SARASWATI",
+             "NISN": 9127,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 48,
+             "Nomor Urut": 12,
+             "Nama": "EDITA SALSABILA SOPANDI",
+             "NISN": 9135,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 49,
+             "Nomor Urut": 13,
+             "Nama": "FIQIH ANDRIAN",
+             "NISN": 9153,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 50,
+             "Nomor Urut": 14,
+             "Nama": "GEOVANY BAKARA",
+             "NISN": 9155,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 51,
+             "Nomor Urut": 15,
+             "Nama": "HAEKAL FEBRIAN GHANI",
+             "NISN": 9161,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 52,
+             "Nomor Urut": 16,
+             "Nama": "HANA FEBI ASTUTI",
+             "NISN": 9166,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 53,
+             "Nomor Urut": 17,
+             "Nama": "IKRAR SAID KASEILA",
+             "NISN": 9173,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 54,
+             "Nomor Urut": 18,
+             "Nama": "INTAN ADELYA SYAWAL",
+             "NISN": 9176,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 55,
+             "Nomor Urut": 19,
+             "Nama": "KISWAH SYARIFATU SYAKINAH",
+             "NISN": 9194,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 56,
+             "Nomor Urut": 20,
+             "Nama": "MIKHAEL TAFTA SENDATHA",
+             "NISN": 9319,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 57,
+             "Nomor Urut": 21,
+             "Nama": "MUHAMAD FADLY",
+             "NISN": 9207,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 58,
+             "Nomor Urut": 22,
+             "Nama": "MUHAMMAD ROCHMAN HAKIM RUSPENDI",
+             "NISN": 9218,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 59,
+             "Nomor Urut": 23,
+             "Nama": "MUHAMMAD SYAHBANI",
+             "NISN": 9219,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 60,
+             "Nomor Urut": 24,
+             "Nama": "NABILA FITRIA ARIYANTI",
+             "NISN": 9226,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 61,
+             "Nomor Urut": 25,
+             "Nama": "NATHALIA HO",
+             "NISN": 9236,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 62,
+             "Nomor Urut": 26,
+             "Nama": "NECA RASIKA AULIA",
+             "NISN": 9240,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 63,
+             "Nomor Urut": 27,
+             "Nama": "PRYANKA VILDARANI",
+             "NISN": 9253,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 64,
+             "Nomor Urut": 28,
+             "Nama": "REZA ARIEL SAPUTRA",
+             "NISN": 9265,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 65,
+             "Nomor Urut": 29,
+             "Nama": "RIRIN ANGGRAINI PUSPITA SARI",
+             "NISN": 9270,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 66,
+             "Nomor Urut": 30,
+             "Nama": "RYANA SULISTIO TRIHANDAYANI",
+             "NISN": 9274,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 67,
+             "Nomor Urut": 31,
+             "Nama": "SARAH AMELIA",
+             "NISN": 9278,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 68,
+             "Nomor Urut": 32,
+             "Nama": "SHERLY RAHMA FITRIANSAH",
+             "NISN": 9286,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 69,
+             "Nomor Urut": 33,
+             "Nama": "SURYA SUMANTRI",
+             "NISN": 9289,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 70,
+             "Nomor Urut": 34,
+             "Nama": "TIO ALDINA",
+             "NISN": 9294,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 71,
+             "Nomor Urut": 35,
+             "Nama": "TRESA NERU ANWAR",
+             "NISN": 9296,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 72,
+             "Nomor Urut": 36,
+             "Nama": "ZAHRA RIZKYA PUTRI",
+             "NISN": 9306,
+             "Kelas": "XI IPS 2"
+            },
+            {
+             "ID": 73,
+             "Nomor Urut": 1,
+             "Nama": "AISYAH ZAKIAH",
+             "NISN": 9075,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 74,
+             "Nomor Urut": 2,
+             "Nama": "ALFARIEZY MUCHAR",
+             "NISN": 9080,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 75,
+             "Nomor Urut": 3,
+             "Nama": "ANDI KURNIAWAN",
+             "NISN": 9087,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 76,
+             "Nomor Urut": 4,
+             "Nama": "ANDI SAPUTRA",
+             "NISN": 9088,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 77,
+             "Nomor Urut": 5,
+             "Nama": "ATIKA RAHMA ZAHIRA",
+             "NISN": 9098,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 78,
+             "Nomor Urut": 6,
+             "Nama": "AULIA TAMIIMAH HAPSARI",
+             "NISN": 9100,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 79,
+             "Nomor Urut": 7,
+             "Nama": "AVAYA UMAR KIRCKOV",
+             "NISN": 8778,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 80,
+             "Nomor Urut": 8,
+             "Nama": "AYUDYA FEBRYAN RIZKY",
+             "NISN": 9314,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 81,
+             "Nomor Urut": 9,
+             "Nama": "BUNGA MARSHA",
+             "NISN": 9110,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 82,
+             "Nomor Urut": 10,
+             "Nama": "DEA SEFTIYANI",
+             "NISN": 9120,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 83,
+             "Nomor Urut": 11,
+             "Nama": "DEPHNIE TANIA ANGELIC MARPAUNG",
+             "NISN": 9123,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 84,
+             "Nomor Urut": 12,
+             "Nama": "ELLYCIA TRISNARANI",
+             "NISN": 9136,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 85,
+             "Nomor Urut": 13,
+             "Nama": "ENGGI ALVIANA",
+             "NISN": 9137,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 86,
+             "Nomor Urut": 14,
+             "Nama": "EUODIA ALETEA ZEFANYA",
+             "NISN": 9139,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 87,
+             "Nomor Urut": 15,
+             "Nama": "FATURRACHMAN",
+             "NISN": 9150,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 88,
+             "Nomor Urut": 16,
+             "Nama": "FEBRY NESTIA",
+             "NISN": 9151,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 89,
+             "Nomor Urut": 17,
+             "Nama": "GALIH ADITYA ZAHRAN",
+             "NISN": 9154,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 90,
+             "Nomor Urut": 18,
+             "Nama": "GILANG RAMADHANI SUHENDI",
+             "NISN": 9157,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 91,
+             "Nomor Urut": 19,
+             "Nama": "GRETL RENATA",
+             "NISN": 9160,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 92,
+             "Nomor Urut": 20,
+             "Nama": "HANA ALFIAN",
+             "NISN": 9165,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 93,
+             "Nomor Urut": 21,
+             "Nama": "HOLIFAH SUCIWATI",
+             "NISN": 9169,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 94,
+             "Nomor Urut": 22,
+             "Nama": "I PUTU ADI PRAMANA MARHANDIKA",
+             "NISN": 9171,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 95,
+             "Nomor Urut": 23,
+             "Nama": "IFTAH MUZDALIFAH",
+             "NISN": 9172,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 96,
+             "Nomor Urut": 24,
+             "Nama": "MARTFIL ADMIRALDI",
+             "NISN": 9199,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 97,
+             "Nomor Urut": 25,
+             "Nama": "MUHAMMAD ILHAM PRASETYO",
+             "NISN": 9214,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 98,
+             "Nomor Urut": 26,
+             "Nama": "MUHAMMAD PATHUR QORIB",
+             "NISN": 9216,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 99,
+             "Nomor Urut": 27,
+             "Nama": "MUHAMMAD RENALDI SALEH MANGKUANOM",
+             "NISN": 9588,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 100,
+             "Nomor Urut": 28,
+             "Nama": "NADZWA AULYA SYABRINA",
+             "NISN": 9231,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 101,
+             "Nomor Urut": 29,
+             "Nama": "NAILA HALI SYLVIA",
+             "NISN": 9232,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 102,
+             "Nomor Urut": 30,
+             "Nama": "RAISA SYAHIRA TANJUNG",
+             "NISN": 9259,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 103,
+             "Nomor Urut": 31,
+             "Nama": "RENA MELIVICA TANJUNG",
+             "NISN": 9263,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 104,
+             "Nomor Urut": 32,
+             "Nama": "REZA PAHLEVI",
+             "NISN": 9266,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 105,
+             "Nomor Urut": 33,
+             "Nama": "SALMA NAILA AMANDA",
+             "NISN": 9585,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 106,
+             "Nomor Urut": 34,
+             "Nama": "SHAHNAZ FAHIRA",
+             "NISN": 9284,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 107,
+             "Nomor Urut": 35,
+             "Nama": "SYAMSUL FALLAH",
+             "NISN": 9291,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 108,
+             "Nomor Urut": 36,
+             "Nama": "WAHYU ANGGORO RUSDI",
+             "NISN": 9298,
+             "Kelas": "XI MIPA 1"
+            },
+            {
+             "ID": 109,
+             "Nomor Urut": 1,
+             "Nama": "ACHMAD NABIL MUMTAZ CHAIDIR",
+             "NISN": 9062,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 110,
+             "Nomor Urut": 2,
+             "Nama": "ALDY PERMANA",
+             "NISN": 9079,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 111,
+             "Nomor Urut": 3,
+             "Nama": "ALFAYAD SALEH MANGKUANOM",
+             "NISN": 9081,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 112,
+             "Nomor Urut": 4,
+             "Nama": "AZRIEL HAIKAL AKBAR",
+             "NISN": 9103,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 113,
+             "Nomor Urut": 5,
+             "Nama": "BAGUS KRISNA",
+             "NISN": 9106,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 114,
+             "Nomor Urut": 6,
+             "Nama": "BERLIAN RAHARJA",
+             "NISN": 9108,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 115,
+             "Nomor Urut": 7,
+             "Nama": "BERLIANA OLIVIA SINAGA",
+             "NISN": 9109,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 116,
+             "Nomor Urut": 8,
+             "Nama": "BUNGA OCTAVIA RAMADHANIA",
+             "NISN": 9111,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 117,
+             "Nomor Urut": 9,
+             "Nama": "CHANDRA GALIH SAPUTRA",
+             "NISN": 9115,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 118,
+             "Nomor Urut": 10,
+             "Nama": "DEA WIRNA HAKIM",
+             "NISN": 9121,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 119,
+             "Nomor Urut": 11,
+             "Nama": "DEFRI ANATASYA PERTIWI",
+             "NISN": 9122,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 120,
+             "Nomor Urut": 12,
+             "Nama": "DINDA AGUSTIN",
+             "NISN": 9131,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 121,
+             "Nomor Urut": 13,
+             "Nama": "ESTER ENZELIKA MUNTHE",
+             "NISN": 9138,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 122,
+             "Nomor Urut": 14,
+             "Nama": "FATIMAH",
+             "NISN": 9149,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 123,
+             "Nomor Urut": 15,
+             "Nama": "FIKRII APRIANTO",
+             "NISN": 9152,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 124,
+             "Nomor Urut": 16,
+             "Nama": "HANIA FARA DHILA",
+             "NISN": 9168,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 125,
+             "Nomor Urut": 17,
+             "Nama": "IMELDA ASMARINI",
+             "NISN": 9175,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 126,
+             "Nomor Urut": 18,
+             "Nama": "IQBAL FADHILLA HERLIANSYAH",
+             "NISN": 9178,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 127,
+             "Nomor Urut": 19,
+             "Nama": "KEVIN MANUEL SIBORO",
+             "NISN": 9190,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 128,
+             "Nomor Urut": 20,
+             "Nama": "MAHARDHIKA AULIA ZAKARIA",
+             "NISN": 9197,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 129,
+             "Nomor Urut": 21,
+             "Nama": "MUHAMMAD NUR FADILLAH",
+             "NISN": 9215,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 130,
+             "Nomor Urut": 22,
+             "Nama": "MUNAZIR ISKANDAR",
+             "NISN": 9222,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 131,
+             "Nomor Urut": 23,
+             "Nama": "MUSTHAFA KAMAL",
+             "NISN": 9224,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 132,
+             "Nomor Urut": 24,
+             "Nama": "NABILA TAZKIAH RAHMAH",
+             "NISN": 9227,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 133,
+             "Nomor Urut": 25,
+             "Nama": "NADHIFA KAYLA WIRAWAN PUTRI",
+             "NISN": 9228,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 134,
+             "Nomor Urut": 26,
+             "Nama": "NAYNA WISAN RUMANTIR",
+             "NISN": 9237,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 135,
+             "Nomor Urut": 27,
+             "Nama": "NESSA SHABRINA ZHARFA",
+             "NISN": 9241,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 136,
+             "Nomor Urut": 28,
+             "Nama": "NIKE RAMADHILLA AZHARA",
+             "NISN": 9242,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 137,
+             "Nomor Urut": 29,
+             "Nama": "RAFFI AHMAD",
+             "NISN": 9254,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 138,
+             "Nomor Urut": 30,
+             "Nama": "RISKA AMANDA",
+             "NISN": 9271,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 139,
+             "Nomor Urut": 31,
+             "Nama": "RUSMIATI",
+             "NISN": 9273,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 140,
+             "Nomor Urut": 32,
+             "Nama": "SERLINA",
+             "NISN": 9283,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 141,
+             "Nomor Urut": 33,
+             "Nama": "STEVEN HARRIS TRI MULIA",
+             "NISN": 9287,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 142,
+             "Nomor Urut": 34,
+             "Nama": "SUCI NUR AWALIA MUBAROK",
+             "NISN": 9288,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 143,
+             "Nomor Urut": 35,
+             "Nama": "SYAHLA FATHINAH HUSNA",
+             "NISN": 9290,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 144,
+             "Nomor Urut": 36,
+             "Nama": "YANUAR INDRA KURNIAWAN",
+             "NISN": 9304,
+             "Kelas": "XI MIPA 2"
+            },
+            {
+             "ID": 145,
+             "Nomor Urut": 1,
+             "Nama": "AHMAD RIZKI",
+             "NISN": 9069,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 146,
+             "Nomor Urut": 2,
+             "Nama": "ALMAIRA KHASANAH FITRI",
+             "NISN": 9083,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 147,
+             "Nomor Urut": 3,
+             "Nama": "ANANDA ASYIFA HERLITA",
+             "NISN": 9086,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 148,
+             "Nomor Urut": 4,
+             "Nama": "ANGELICA SHAPUTRI",
+             "NISN": 9090,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 149,
+             "Nomor Urut": 5,
+             "Nama": "ATIKAH KHAIRUNNISA",
+             "NISN": 9099,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 150,
+             "Nomor Urut": 6,
+             "Nama": "DESWITA DWY PUTRI",
+             "NISN": 9124,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 151,
+             "Nomor Urut": 7,
+             "Nama": "DINA NUR AULIA SABRINA",
+             "NISN": 9130,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 152,
+             "Nomor Urut": 8,
+             "Nama": "DYAH NUR ARIANTI",
+             "NISN": 9134,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 153,
+             "Nomor Urut": 9,
+             "Nama": "FAHRI SEPTIAN GUNAWAN",
+             "NISN": 9141,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 154,
+             "Nomor Urut": 10,
+             "Nama": "FAIRUZ ZIDAN RABBANI",
+             "NISN": 9142,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 155,
+             "Nomor Urut": 11,
+             "Nama": "FAIZA ALYSSA FAIRUZ",
+             "NISN": 9143,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 156,
+             "Nomor Urut": 12,
+             "Nama": "FATIKA RATNA DILLAH",
+             "NISN": 9148,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 157,
+             "Nomor Urut": 13,
+             "Nama": "GILANG PERMANA",
+             "NISN": 9156,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 158,
+             "Nomor Urut": 14,
+             "Nama": "HAMZAH SATRIO",
+             "NISN": 9164,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 159,
+             "Nomor Urut": 15,
+             "Nama": "JAZZENDA SHEFFA ZAFFATISTA",
+             "NISN": 9180,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 160,
+             "Nomor Urut": 16,
+             "Nama": "JEACQUELINE VALLERI WIKARSA",
+             "NISN": 9181,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 161,
+             "Nomor Urut": 17,
+             "Nama": "KAYLA CELESTA SYAFIAH",
+             "NISN": 9184,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 162,
+             "Nomor Urut": 18,
+             "Nama": "MOHAMAD ANDRA JULIAN",
+             "NISN": 9202,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 163,
+             "Nomor Urut": 19,
+             "Nama": "MUHAMAD ADAM KUSUMA",
+             "NISN": 9204,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 164,
+             "Nomor Urut": 20,
+             "Nama": "MUHAMMAD ALBANI",
+             "NISN": 9208,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 165,
+             "Nomor Urut": 21,
+             "Nama": "MUHAMMAD ALTHAF ATHAULLAH RAHMAN",
+             "NISN": 9209,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 166,
+             "Nomor Urut": 22,
+             "Nama": "MUHAMMAD FIKRI RAKHAMADNA",
+             "NISN": 9211,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 167,
+             "Nomor Urut": 23,
+             "Nama": "MUSTHAFA BIMA SATRIA",
+             "NISN": 9223,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 168,
+             "Nomor Urut": 24,
+             "Nama": "NADIRA RAHMA ALISA",
+             "NISN": 9230,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 169,
+             "Nomor Urut": 25,
+             "Nama": "NAJWA LAILI FIRDAUS",
+             "NISN": 9234,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 170,
+             "Nomor Urut": 26,
+             "Nama": "NOVA HARDIYANTI AZZAHRA",
+             "NISN": 9243,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 171,
+             "Nomor Urut": 27,
+             "Nama": "NOVITA INDAH SAFITRI",
+             "NISN": 9246,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 172,
+             "Nomor Urut": 28,
+             "Nama": "NURUL RAHMA TIANI",
+             "NISN": 9249,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 173,
+             "Nomor Urut": 29,
+             "Nama": "RAKA DZAKI FIRDAUS",
+             "NISN": 9260,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 174,
+             "Nomor Urut": 30,
+             "Nama": "RAYHAN FEBRIANSYAH",
+             "NISN": 9261,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 175,
+             "Nomor Urut": 31,
+             "Nama": "REDHO",
+             "NISN": 9262,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 176,
+             "Nomor Urut": 32,
+             "Nama": "SARAH ZASKIA",
+             "NISN": 9280,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 177,
+             "Nomor Urut": 33,
+             "Nama": "SELLY NOVITA",
+             "NISN": 9282,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 178,
+             "Nomor Urut": 34,
+             "Nama": "TAUFIK HIDAYAT",
+             "NISN": 9292,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 179,
+             "Nomor Urut": 35,
+             "Nama": "TITAH HUDAIBIYAH",
+             "NISN": 9295,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 180,
+             "Nomor Urut": 36,
+             "Nama": "ZAHWA ZARILLA REVALINA PUTRI",
+             "NISN": 9307,
+             "Kelas": "XI MIPA 3"
+            },
+            {
+             "ID": 181,
+             "Nomor Urut": 1,
+             "Nama": "ADAM DWI SUJATMIKO",
+             "NISN": 9063,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 182,
+             "Nomor Urut": 2,
+             "Nama": "AFRIZA MAULANA AKBAR",
+             "NISN": 9064,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 183,
+             "Nomor Urut": 3,
+             "Nama": "ANGEL ARIANTI MANALU",
+             "NISN": 9089,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 184,
+             "Nomor Urut": 4,
+             "Nama": "AQILA ZULFAHMI",
+             "NISN": 9093,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 185,
+             "Nomor Urut": 5,
+             "Nama": "ARIEF FADILAH HIDAYAT",
+             "NISN": 9094,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 186,
+             "Nomor Urut": 6,
+             "Nama": "AYU PRATIWI HEPRIYANTI",
+             "NISN": 9101,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 187,
+             "Nomor Urut": 7,
+             "Nama": "BAGUS SUHARIADI",
+             "NISN": 9107,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 188,
+             "Nomor Urut": 8,
+             "Nama": "CAHAYA BILHAKA",
+             "NISN": 9112,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 189,
+             "Nomor Urut": 9,
+             "Nama": "CINTYA ADE SORAYA",
+             "NISN": 9118,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 190,
+             "Nomor Urut": 10,
+             "Nama": "DIYAN WULANDARI",
+             "NISN": 9132,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 191,
+             "Nomor Urut": 11,
+             "Nama": "GLENN JORDAN",
+             "NISN": 9159,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 192,
+             "Nomor Urut": 12,
+             "Nama": "HAFIZH AKMALUDIN AKBAR",
+             "NISN": 9162,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 193,
+             "Nomor Urut": 13,
+             "Nama": "ILONA CARISSA MANALU",
+             "NISN": 9174,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 194,
+             "Nomor Urut": 14,
+             "Nama": "JOSEPHINE DESTINY",
+             "NISN": 9183,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 195,
+             "Nomor Urut": 15,
+             "Nama": "KEISHA ZAHIRA SHAFA WIBOWO",
+             "NISN": 9187,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 196,
+             "Nomor Urut": 16,
+             "Nama": "KEISYA ALYANESSA",
+             "NISN": 9188,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 197,
+             "Nomor Urut": 17,
+             "Nama": "KEN PATRIOT",
+             "NISN": 9189,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 198,
+             "Nomor Urut": 18,
+             "Nama": "LUTHFI HUWAIDI",
+             "NISN": 9196,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 199,
+             "Nomor Urut": 19,
+             "Nama": "MARSA SHADRINA AMALIA",
+             "NISN": 9198,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 200,
+             "Nomor Urut": 20,
+             "Nama": "MOCHAMMAD ALFAJRI ARYADI",
+             "NISN": 9201,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 201,
+             "Nomor Urut": 21,
+             "Nama": "MUHAMAD ALFI",
+             "NISN": 9205,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 202,
+             "Nomor Urut": 22,
+             "Nama": "MUHAMMAD BIMA ADI PRATAMA",
+             "NISN": 9210,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 203,
+             "Nomor Urut": 23,
+             "Nama": "MUHAMMAD TURINO RAFFAEL",
+             "NISN": 9220,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 204,
+             "Nomor Urut": 24,
+             "Nama": "NAZWA KHAIRA HADI",
+             "NISN": 9238,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 205,
+             "Nomor Urut": 25,
+             "Nama": "NOVIA RACHMAWATI",
+             "NISN": 9245,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 206,
+             "Nomor Urut": 26,
+             "Nama": "PRADIPTA PUTRA ALANDRA",
+             "NISN": 9252,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 207,
+             "Nomor Urut": 27,
+             "Nama": "RIDA NURFITRI ANNISA",
+             "NISN": 9268,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 208,
+             "Nomor Urut": 28,
+             "Nama": "RIDHO SANTOSO",
+             "NISN": 9269,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 209,
+             "Nomor Urut": 29,
+             "Nama": "RIZKA AMELIA",
+             "NISN": 9272,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 210,
+             "Nomor Urut": 30,
+             "Nama": "SANDI",
+             "NISN": 9276,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 211,
+             "Nomor Urut": 31,
+             "Nama": "SANDY KURNIAWAN",
+             "NISN": 9277,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 212,
+             "Nomor Urut": 32,
+             "Nama": "VIONA DHIYA ULHAQ",
+             "NISN": 9297,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 213,
+             "Nomor Urut": 33,
+             "Nama": "WAHYU NINDYO PANDJIKUMORO",
+             "NISN": 9299,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 214,
+             "Nomor Urut": 34,
+             "Nama": "WULAN FADHILAH HASAN",
+             "NISN": 9302,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 215,
+             "Nomor Urut": 35,
+             "Nama": "WULANDARI",
+             "NISN": 9303,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 216,
+             "Nomor Urut": 36,
+             "Nama": "ZEFANYA WEBER SIMORANGKIR",
+             "NISN": 9321,
+             "Kelas": "XI MIPA 4"
+            },
+            {
+             "ID": 217,
+             "Nomor Urut": 1,
+             "Nama": "AIKA MELFINAH",
+             "NISN": 9072,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 218,
+             "Nomor Urut": 2,
+             "Nama": "AIKO",
+             "NISN": 9073,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 219,
+             "Nomor Urut": 3,
+             "Nama": "ALDIMAR SILALAHI",
+             "NISN": 9078,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 220,
+             "Nomor Urut": 4,
+             "Nama": "ALITA CITRATANIA",
+             "NISN": 9082,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 221,
+             "Nomor Urut": 5,
+             "Nama": "BAGAS DWI SAPUTRA",
+             "NISN": 9105,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 222,
+             "Nomor Urut": 6,
+             "Nama": "CATHRIN ANGELINA EFFENDI",
+             "NISN": 9114,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 223,
+             "Nomor Urut": 7,
+             "Nama": "DEVI YANAH",
+             "NISN": 9125,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 224,
+             "Nomor Urut": 8,
+             "Nama": "DEVINA ARTANTI",
+             "NISN": 9126,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 225,
+             "Nomor Urut": 9,
+             "Nama": "DIMAZ ARYA SAPUTRA",
+             "NISN": 9129,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 226,
+             "Nomor Urut": 10,
+             "Nama": "DWIANA PUSPITA KAMESWARI",
+             "NISN": 9133,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 227,
+             "Nomor Urut": 11,
+             "Nama": "FADLI AL ZAHIR",
+             "NISN": 9140,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 228,
+             "Nomor Urut": 12,
+             "Nama": "FAJRIN ARYA UTAMA",
+             "NISN": 9144,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 229,
+             "Nomor Urut": 13,
+             "Nama": "FALDI RAIHAN PUTRA ARISTA",
+             "NISN": 9145,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 230,
+             "Nomor Urut": 14,
+             "Nama": "FASYA BUNGA AGUSTIN",
+             "NISN": 9147,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 231,
+             "Nomor Urut": 15,
+             "Nama": "GLADYS FITRYANDRA",
+             "NISN": 9158,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 232,
+             "Nomor Urut": 16,
+             "Nama": "HAIKAL PRATAMA WIBOWO",
+             "NISN": 9163,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 233,
+             "Nomor Urut": 17,
+             "Nama": "JAVIER NABIIL",
+             "NISN": 9179,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 234,
+             "Nomor Urut": 18,
+             "Nama": "KEVIN MAWLA AKBAR",
+             "NISN": 9191,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 235,
+             "Nomor Urut": 19,
+             "Nama": "KHAULA BASILIA HIRAWAN",
+             "NISN": 9192,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 236,
+             "Nomor Urut": 20,
+             "Nama": "KHOIRUL AKBAR",
+             "NISN": 9193,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 237,
+             "Nomor Urut": 21,
+             "Nama": "LIVIA TALISTA ZAHRAH",
+             "NISN": 9195,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 238,
+             "Nomor Urut": 22,
+             "Nama": "MIFTAHUL JANNAH A'ZAHRA",
+             "NISN": 9200,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 239,
+             "Nomor Urut": 23,
+             "Nama": "MOHAMMAD LUTHFI RAMADHAN",
+             "NISN": 9203,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 240,
+             "Nomor Urut": 24,
+             "Nama": "MUTIAH OCTAVIA RAMADHANI",
+             "NISN": 9225,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 241,
+             "Nomor Urut": 25,
+             "Nama": "NADINE MARCELLA",
+             "NISN": 9229,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 242,
+             "Nomor Urut": 26,
+             "Nama": "NASWAH SUCIANI",
+             "NISN": 9235,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 243,
+             "Nomor Urut": 27,
+             "Nama": "NOVAL ROMADHON",
+             "NISN": 9244,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 244,
+             "Nomor Urut": 28,
+             "Nama": "NOVITASARI WAHYUNINGRAT",
+             "NISN": 9247,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 245,
+             "Nomor Urut": 29,
+             "Nama": "PANDU PURWO RAHARJO",
+             "NISN": 9250,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 246,
+             "Nomor Urut": 30,
+             "Nama": "RAFI IBNUSHALEH",
+             "NISN": 9255,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 247,
+             "Nomor Urut": 31,
+             "Nama": "RAFIF DITO EKA NUGROHO",
+             "NISN": 9256,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 248,
+             "Nomor Urut": 32,
+             "Nama": "SALSABILA MARINI OLIVIA",
+             "NISN": 9275,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 249,
+             "Nomor Urut": 33,
+             "Nama": "SARAH RAHAYU",
+             "NISN": 9279,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 250,
+             "Nomor Urut": 34,
+             "Nama": "SHERINE NADIA RAMADHANI SUNARYO",
+             "NISN": 9285,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 251,
+             "Nomor Urut": 35,
+             "Nama": "WISNU BAYU NUGRAHA",
+             "NISN": 9301,
+             "Kelas": "XI MIPA 5"
+            },
+            {
+             "ID": 252,
+             "Nomor Urut": 36,
+             "Nama": "VIVIEKA WEDAYANTI",
+             "NISN": 9586,
+             "Kelas": "XI MIPA 5"
+            }
+           ]
+        
+    ] 
+
+}
